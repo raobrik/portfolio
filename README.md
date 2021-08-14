@@ -1,5 +1,5 @@
 # Brian Rao
-*Bioinformatics and Data Science Practitioner
+*Bioinformatics and Data Science Practitioner*
 
 # Education
 * Masters of Science (Bioinformatics), *University of Illinois Urbana-Chamapaign*, 2021
